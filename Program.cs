@@ -13,7 +13,7 @@ namespace Lab2
             //for if/else statement
             bool user = true;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("\t\t\t\tWelcome to Grand Circus' Room Detail Generator!");
             Console.WriteLine("\t\t\t\t==============================================");
 
